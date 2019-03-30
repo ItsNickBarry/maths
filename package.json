@@ -1,0 +1,28 @@
+{
+  "name": "maths-js",
+  "version": "1.0.0",
+  "description": "Britons never will be slaves!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsnickbarry/maths-js.git"
+  },
+  "keywords": [
+    "maths",
+    "mathematics",
+    "math",
+    "self-determination",
+    "brexit",
+    "sovereignty",
+    "wow"
+  ],
+  "author": "Nick Barry",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/itsnickbarry/maths-js/issues"
+  },
+  "homepage": "https://github.com/itsnickbarry/maths-js#readme"
+}
