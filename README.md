@@ -34,10 +34,10 @@ Math.E
 
  ---
 
->  When Britain first, at Heaven's command
->  Arose from out the azure main;
->  This was the charter of the land,
->  And guardian angels sang this strain:
->  
->  "Rule, Britannia! rule the waves:
->  "Britons never will be slaves."
+>  When Britain first, at Heaven's command  
+>  Arose from out the azure main;  
+>  This was the charter of the land,  
+>  And guardian angels sang this strain:  
+>    
+>  "Rule, Britannia! rule the waves:  
+>  "Britons never will be slaves."  
