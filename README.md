@@ -12,19 +12,19 @@ Source: [Google Trends](https://trends.google.com/trends/explore?date=2015-06-23
 Little England installation:
 
 ```
-npm install --save maths-js
+npm install --save @maths-js/maths
 ```
 
 Global Empire installation:
 
 ```
-npm install --global maths-js
+npm install --global @maths-js/maths
 ```
 
 ## Usage
 
 ```javascript
-require('maths-js');
+require('@maths-js/maths');
 
 Maths.E
 // => 2.718281828459045

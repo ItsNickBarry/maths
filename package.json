@@ -1,5 +1,5 @@
 {
-  "name": "maths-js",
+  "name": "@maths-js/maths",
   "version": "1.0.0",
   "description": "Britons never will be slaves!",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itsnickbarry/maths-js.git"
+    "url": "git+https://github.com/itsnickbarry/maths.git"
   },
   "keywords": [
     "maths",
@@ -22,9 +22,9 @@
   "author": "Nick Barry",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/itsnickbarry/maths-js/issues"
+    "url": "https://github.com/itsnickbarry/maths/issues"
   },
-  "homepage": "https://github.com/itsnickbarry/maths-js#readme",
+  "homepage": "https://github.com/itsnickbarry/maths#readme",
   "devDependencies": {
     "mocha": "^6.0.2"
   }
